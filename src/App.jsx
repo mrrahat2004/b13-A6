@@ -133,9 +133,9 @@ function DigiToolsUI() {
       </section>
 
       <section className="grid grid-cols-1 md:grid-cols-3 text-center bg-gradient-to-r from-violet-700 to-fuchsia-600 py-10 px-4 shadow-xl">
-        <div className="border-r border-white/20 last:border-r-0"><h3 className="text-4xl font-extrabold">50K+</h3><p className="text-sm text-white/80 mt-1">Active Users</p></div>
-        <div className="border-r border-white/20 last:border-r-0"><h3 className="text-4xl font-extrabold">200+</h3><p className="text-sm text-white/80 mt-1">Premium Tools</p></div>
-        <div><h3 className="text-4xl font-extrabold">4.9</h3><p className="text-sm text-white/80 mt-1">Rating</p></div>
+        <div className="border-r border-white/20 last:border-r-0"><h3 className="text-4xl font-extrabold">50K+</h3><p className="text-sm text-white/80 mt-1 font-extrabold">Active Users</p></div>
+        <div className="border-r border-white/20 last:border-r-0"><h3 className="text-4xl font-extrabold">200+</h3><p className="text-sm text-white/80 mt-1 font-extrabold">Premium Tools</p></div>
+        <div><h3 className="text-4xl font-extrabold ">4.9</h3><p className="text-sm text-white/80 mt-1 font-extrabold">Rating</p></div>
       </section>
 
        <section className="px-6 py-16 bg-white text-gray-900">
