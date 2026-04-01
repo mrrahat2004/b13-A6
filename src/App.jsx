@@ -221,7 +221,7 @@ function DigiToolsUI() {
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
-            {/* Starter Plan */}
+
             <div className={`relative border border-gray-200 rounded-2xl p-8 bg-white shadow-sm flex flex-col ${selectedPlan === 'starter' ? 'ring-2 ring-violet-600' : ''}`}>
               <h3 className="text-2xl font-bold mb-1">Starter</h3>
               <p className="text-sm text-gray-400 mb-6">Perfect for getting started</p>
