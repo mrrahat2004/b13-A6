@@ -124,7 +124,7 @@ function DigiToolsUI() {
           <p className="mt-4 text-gray-600 max-w-lg">Access premium AI tools, design assets, templates, and productivity software — all in one place. Start creating faster today.</p>
           <div className="mt-6 flex gap-4">
             <button className="px-5 py-3 rounded-xl bg-violet-600 text-white font-semibold">Explore Products</button>
-            <button className="px-5 py-3 rounded-xl border border-violet-600 text-violet-600 font-semibold"> Watch Demo</button>
+            <button className="px-5 py-3 rounded-xl border border-violet-600 text-violet-600 font-extrabold"> Watch Demo</button>
           </div>
         </div>
         <div className="flex justify-center">
