@@ -387,8 +387,6 @@ function DigiToolsUI() {
         </div>
       </footer>
 
-
-
     </div>
 
   )
