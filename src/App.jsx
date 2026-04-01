@@ -213,9 +213,6 @@ function DigiToolsUI() {
         )}
       </section>
 
-
-
-      {/* Pricing Section */}
       <section className="px-6 py-16 bg-white text-gray-900">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
@@ -244,7 +241,7 @@ function DigiToolsUI() {
               </button>
             </div>
 
-            {/* Pro Plan (Highlighted) */}
+
             <div className="relative rounded-2xl p-8 bg-violet-600 text-white shadow-xl flex flex-col scale-105 z-10">
               <div className="absolute -top-4 left-1/2 -translate-x-1/2 bg-yellow-100 text-yellow-700 text-xs font-bold px-4 py-1 rounded-full shadow-md">
                 Most Popular
@@ -269,7 +266,6 @@ function DigiToolsUI() {
               </button>
             </div>
 
-            {/* Enterprise Plan */}
             <div className={`relative border border-gray-200 rounded-2xl p-8 bg-white shadow-sm flex flex-col ${selectedPlan === 'enterprise' ? 'ring-2 ring-violet-600' : ''}`}>
               <h3 className="text-2xl font-bold mb-1">Enterprise</h3>
               <p className="text-sm text-gray-400 mb-6">For teams and businesses</p>
@@ -340,7 +336,7 @@ function DigiToolsUI() {
             </p>
           </div>
 
-          {/* Product */}
+
           <div>
             <h3 className="font-semibold mb-4">Product</h3>
             <ul className="space-y-2 text-sm text-gray-400">
@@ -351,7 +347,7 @@ function DigiToolsUI() {
             </ul>
           </div>
 
-          {/* Company */}
+
           <div>
             <h3 className="font-semibold mb-4">Company</h3>
             <ul className="space-y-2 text-sm text-gray-400">
@@ -362,7 +358,7 @@ function DigiToolsUI() {
             </ul>
           </div>
 
-          {/* Resources */}
+
           <div>
             <h3 className="font-semibold mb-4">Resources</h3>
             <ul className="space-y-2 text-sm text-gray-400">
@@ -373,7 +369,7 @@ function DigiToolsUI() {
             </ul>
           </div>
 
-          {/* Social */}
+
           <div>
             <h3 className="font-semibold mb-4">Social Links</h3>
             <div className="flex gap-3 text-lg">
